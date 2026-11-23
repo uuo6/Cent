@@ -84,21 +84,6 @@ export default function SponsorBanner() {
     );
 }
 
-export function SponsorAboutItem() {
-    const t = useIntl();
-    return (
-        <button
-            type="button"
-            onClick={() => {
-                showSponsor();
-            }}
-            className="w-full min-h-10 pb-2 flex justify-between items-center px-4 cursor-pointer text-left"
-        >
-            <div className="flex items-center gap-2">
-                <i className="icon-[mdi--coffee-outline] size-5 text-yellow-400"></i>
-                <div className="text-sm">{t("sponsor-title")}</div>
-            </div>
-            <i className="icon-[mdi--chevron-right]"></i>
-        </button>
-    );
+export default function SponsorBanner() {
+    return null;
 }
