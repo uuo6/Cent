@@ -309,7 +309,7 @@
   "analysis.summary.balance.year": "日均结余{dayAvg}，周均结余{weekAvg}，月均结余{monthAvg}，年均结余{yearAvg}，预计当年结余{projectedTotal}",
   "bill-negative-tip": "账单金额保存时将始终为正数",
   "about-cent": "关于Cent",
-  "cent-app-name": "日计",
+  "cent-app-name": "记账",
   "feedback": "反馈",
   "blog": "Blog",
   "preparing": "准备中...",
